@@ -1,12 +1,14 @@
 
-Here’s a concise outline of steps to run **Context7** in Docker and sync its context directory using a GitHub repo across multiple computers:
+Here’s an outline of steps to run **Context7** in Docker and sync its context directory using a GitHub repo across multiple computers:
 
 ### Steps to Set Up Context7 (Docker + Git Sync)
 
-1. Clone down our repo
+1. **Clone down our repo** and cd into it
 
 ```bash
 git clone https://git.epc-instore.com/ajoslin/context7-data.git
+
+cd context7-data
 ```
 
 2. **Build the Docker Image**
