@@ -3,10 +3,10 @@ Here’s an outline of steps to run **Context7** in Docker and sync its context 
 
 ### Steps to Set Up Context7 (Docker + Git Sync)
 
-1. **Clone down our repo** and cd into it
+1. **Clone down this repo** and cd into it
 
 ```bash
-git clone https://git.epc-instore.com/ajoslin/context7-data.git
+git clone https://github.com/ajoslin103/context-7-data.git
 
 cd context7-data
 ```
